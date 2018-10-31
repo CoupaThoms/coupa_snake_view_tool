@@ -21,7 +21,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+> ```ruby
+CoupaSnakeViewTool::Renderer.copyright 'Thomas Lefèvre', 'All rights reserved'
+```
 
 ## Development
 
